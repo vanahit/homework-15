@@ -1,0 +1,25 @@
+.main {
+  display: flex;
+  margin-left: 20px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-start;
+}
+h1 {
+  margin: 20px;
+}
+img {
+  width: 11%;
+}
+.list a {
+  margin: 20px;
+  display: block;
+  color: black;
+  font-size: 1.2vw;
+}
+.selected {
+ font-weight: bold;
+}
+.photos {
+  flex: 1;
+}
